@@ -1,3 +1,4 @@
+Worked as a big data intern 
 # Azure-skynet-solution-Uber-data-anylasis-
 Please follow the "Steps" document to have a clear idea of the project .
 
